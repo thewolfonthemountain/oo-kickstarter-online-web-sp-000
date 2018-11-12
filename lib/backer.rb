@@ -14,5 +14,4 @@ attr_accessor :name, :backed_projects
   end
 
 
-
 end
